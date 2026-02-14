@@ -58,8 +58,9 @@ com.example.ShopingWeb
 <img width="1352" height="676" alt="Screenshot 2026-02-14 144137" src="https://github.com/user-attachments/assets/04552ef7-e853-46a6-a21b-9808275eb430" />
 - Cart Page
 <img width="1343" height="664" alt="Screenshot 2026-02-14 144211" src="https://github.com/user-attachments/assets/3a3a75ec-4a89-4944-baab-65247e0600f0" />
-- Login & Registration Page
+- Login Page
 <img width="400" height="326" alt="Screenshot 2026-02-14 144304" src="https://github.com/user-attachments/assets/ad4d8e74-be88-4b53-9695-5dd3d6837a15" />
+- Registration Page
 <img width="398" height="330" alt="Screenshot 2026-02-14 144243" src="https://github.com/user-attachments/assets/6ff21583-db6c-4d4e-bad7-292e45de98e3" />
 - Admin Dashboard
 <img width="1344" height="678" alt="Screenshot 2026-02-14 144340" src="https://github.com/user-attachments/assets/9e32e622-635a-4232-97c9-dafa01d1a383" />
