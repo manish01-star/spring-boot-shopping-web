@@ -55,15 +55,14 @@ com.example.ShopingWeb
 - Home Page
  <img width="1347" height="680" alt="image" src="https://github.com/user-attachments/assets/a869b3ad-8a8e-4ad4-a60a-5be01898ab1c" />
 - Product Listing Page
-![alt text](image.png)
+<img width="1352" height="676" alt="Screenshot 2026-02-14 144137" src="https://github.com/user-attachments/assets/04552ef7-e853-46a6-a21b-9808275eb430" />
 - Cart Page
-![alt text](image-1.png)
+<img width="1343" height="664" alt="Screenshot 2026-02-14 144211" src="https://github.com/user-attachments/assets/3a3a75ec-4a89-4944-baab-65247e0600f0" />
 - Login & Registration Page
-![alt text](image-2.png)
-![alt text](image-3.png)
+<img width="400" height="326" alt="Screenshot 2026-02-14 144304" src="https://github.com/user-attachments/assets/ad4d8e74-be88-4b53-9695-5dd3d6837a15" />
+<img width="398" height="330" alt="Screenshot 2026-02-14 144243" src="https://github.com/user-attachments/assets/6ff21583-db6c-4d4e-bad7-292e45de98e3" />
 - Admin Dashboard
-![alt text](image-4.png)
-
+<img width="1344" height="678" alt="Screenshot 2026-02-14 144340" src="https://github.com/user-attachments/assets/9e32e622-635a-4232-97c9-dafa01d1a383" />
 ---
 
 ## ⚙️ Installation & Setup
