@@ -52,19 +52,24 @@ com.example.ShopingWeb
 
 ## 📸 UI Screenshots
 
-- Home Page
- <img width="1347" height="680" alt="image" src="https://github.com/user-attachments/assets/a869b3ad-8a8e-4ad4-a60a-5be01898ab1c" />
-- Product Listing Page
-<img width="1352" height="676" alt="Screenshot 2026-02-14 144137" src="https://github.com/user-attachments/assets/04552ef7-e853-46a6-a21b-9808275eb430" />
-- Cart Page
-<img width="1343" height="664" alt="Screenshot 2026-02-14 144211" src="https://github.com/user-attachments/assets/3a3a75ec-4a89-4944-baab-65247e0600f0" />
-- Login Page
-<img width="1362" height="685" alt="image" src="https://github.com/user-attachments/assets/53c5855b-39d7-4710-b368-d3124368c2a0" />
-- Registration Page
-<img width="1353" height="676" alt="image" src="https://github.com/user-attachments/assets/a4786119-08c2-4da2-b388-f8313d4dbaed" />
-- Admin Dashboard
-<img width="1344" height="678" alt="Screenshot 2026-02-14 144340" src="https://github.com/user-attachments/assets/9e32e622-635a-4232-97c9-dafa01d1a383" />
----
+- **Home Page**  
+  ![Home Page](screenshots/home.png)
+
+- **Product Listing Page**  
+  ![Product Listing Page](screenshots/image.png)
+
+- **Cart Page**  
+  ![Cart Page](screenshots/image-1.png)
+
+- **Login Page**  
+  ![Login Page](screenshots/image-3.png)
+
+- **Registration Page**  
+  ![Registration Page](screenshots/image-2.png)
+
+- **Admin Dashboard**  
+  ![Admin Dashboard](screenshots/image-4.png)
+
 
 ## ⚙️ Installation & Setup
 
