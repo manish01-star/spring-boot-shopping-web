@@ -53,11 +53,16 @@ com.example.ShopingWeb
 ## 📸 UI Screenshots
 
 - Home Page
-- <img width="1347" height="680" alt="image" src="https://github.com/user-attachments/assets/a869b3ad-8a8e-4ad4-a60a-5be01898ab1c" />
+ <img width="1347" height="680" alt="image" src="https://github.com/user-attachments/assets/a869b3ad-8a8e-4ad4-a60a-5be01898ab1c" />
 - Product Listing Page
+![alt text](image.png)
 - Cart Page
+![alt text](image-1.png)
 - Login & Registration Page
+![alt text](image-2.png)
+![alt text](image-3.png)
 - Admin Dashboard
+![alt text](image-4.png)
 
 ---
 
@@ -67,3 +72,23 @@ com.example.ShopingWeb
 
 ```bash
 git clone https://github.com/manish01-star/spring-boot-shopping-web
+
+
+## 🗄 Database Setup
+
+1. Import the database using MySQL:
+
+```bash
+mysql -u root -p < database/shoppingdb.sql
+
+2. Update application.properties with your MySQL username 
+
+spring.datasource.url=jdbc:mysql://localhost:3306/shoppingdb
+spring.datasource.username=root
+spring.datasource.password=
+spring.jpa.hibernate.ddl-auto=update
+
+
+
+
+
